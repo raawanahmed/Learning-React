@@ -6,7 +6,8 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "lodash": "^4.17.10",
+    "joi-browser": "^13.4.0",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6.2",
     "query-string": "^6.1.0",
     "react": "^17.0.2",
@@ -38,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2"
   }
 }
